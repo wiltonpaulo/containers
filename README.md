@@ -1,4 +1,4 @@
 # containers
 Container Images
 
-@@include[status.md](includes/status.md)
+@@include[status.md](status.md)
